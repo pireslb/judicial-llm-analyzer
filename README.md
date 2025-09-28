@@ -1,6 +1,6 @@
 # ML Processo Verifier
 
-Automatize a análise de processos judiciais conforme política interna usando LLM.
+Automatizar a análise de processos judiciais conforme política interna usando LLM.
 
 ## Como rodar localmente (Docker)
 
