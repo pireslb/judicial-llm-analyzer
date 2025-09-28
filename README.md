@@ -33,7 +33,7 @@ O LLM recebe o processo e a política, avalia e retorna JSON estruturado conform
 
 ## .env
 
-Crie um arquivo `.env` (NÃO subir no GitHub!) com:
+Crie um arquivo `.env` com:
 
 ```
 OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
