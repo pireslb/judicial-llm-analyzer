@@ -6,7 +6,7 @@ Automatize a análise de processos judiciais conforme política interna usando L
 
 ```bash
 docker build -t processo-ml-verifier .
-docker run -p 8000:8000 processo-ml-verifier
+docker run -p 8000:8000 --env-file .env processo-ml-verifier
 ```
 
 A interface visual pode ser executada separadamente:
